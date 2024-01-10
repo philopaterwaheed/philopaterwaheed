@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 
-<a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" height="160" /></a>
+<a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" height="180" /></a>
 
 
 
@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 </p>
 
-  <a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile" align="right"  height="160" /></a> 
+  <a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile" align="right"  height="200" /></a> 
 # visits
 <img align="left" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  />
 <img  height="130" src="https://i.imgflip.com/65efzo.gif"  />
