@@ -1,9 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is philopater waheed
 =========================================================================================================================================
 
+<table align = right><tr><td align="right" width="50%">
+<a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" /></a></td></tr>
 
-<a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" /></a>
-
+  <tr>
+  <td align="right" width="50%">  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" ></td></tr>
+<tr> <td align="right" width="50%">
+<a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile"/></a></td></tr>
+</table>
 
 
 
@@ -22,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 </p>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" >
+
 
 ## Socials
 
@@ -31,15 +36,29 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 <a href="https://codeforces.com/profile/philopater_waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="philopater_waheed" height="32" width="32" /></a>
 <a href="https://www.leetcode.com/philopaterwaheed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="philopaterwaheed9" height="32" width="32" /></a>
 </p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile" align="right"  /></a>
+
   
 # visits
-<img align="left" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  />
-<img  height="130" src="https://i.imgflip.com/65efzo.gif"  />
+<img align = "right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
+<img  src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  /> <br>
+<img  src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
+
+<br><br><br><br><br>
+# projects you need to see  
+<table><tr><td valign="top" width="50%">
+
+- ⚽ a game from scratch project  [cath the flag ](https://github.com/philopaterwaheed/Catch_the_flag_game)  
+  
+
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/tenor.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
 
 
