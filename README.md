@@ -31,6 +31,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 <a href="https://codeforces.com/profile/philopater_waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="philopater_waheed" height="32" width="32" /></a>
 <a href="https://www.leetcode.com/philopaterwaheed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="philopaterwaheed9" height="32" width="32" /></a>
 </p>
+<p>
+<br>
+<br>
+<br>
+</p>
 <a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile" align="right"  /></a>
   
 
