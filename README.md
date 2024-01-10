@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is philopater waheed
 =========================================================================================================================================
 
-<table align = right><tr><td align="right" width="50%">
+<table width="25%" align = "right"><tr><td align="right" width="50%">
 <a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" /></a></td></tr>
 
   <tr>
@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <tr> <td align="right" width="50%">
 <a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile"/></a></td></tr>
 </table>
-
+</div>
 
 
 A CS student
@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
   
 # visits
 <img align = "right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
-<img  src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  /> <br>
+<img  width = "15%" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  /> <br>
 <img  src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
 
 <br><br><br><br><br>
