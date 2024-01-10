@@ -13,7 +13,7 @@ A CS student
 * 🌍  I'm based in Cairo , Giza
 * ✉️  You can contact me at [10812021100016@stud.cu.edu.eg](mailto:10812021100016@stud.cu.edu.eg)
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" >
 
-### Socials
+## Socials
 
 <p align="left"><a href="https://dev.to/philopaterwaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="philopaterwaheed" height="32" width="32" /></a>
 <a href="https://linkedin.com/in/philopater-waheed-561292227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philopater-waheed-561292227" height="32" width="32" /></a>
@@ -38,8 +38,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 </p>
 <a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile" align="right"  /></a>
   
-
-
+# visits
+<img align="left" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  />
+<img  height="130" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
