@@ -30,24 +30,26 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 
 ## Socials
-
+<p>click and join me <a href="https://linktr.ee/philosan" target="blank">  <img align="center" src="https://64.media.tumblr.com/5e49812ba306e0e0aecc63691eee7f29/tumblr_inline_p8jnigt3qG1s52ush_500.gifv" alt="philopaterwaheed" height="32" width="32"   />  </p>
 <p align="left"><a href="https://dev.to/philopaterwaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="philopaterwaheed" height="32" width="32" /></a>
 <a href="https://linkedin.com/in/philopater-waheed-561292227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philopater-waheed-561292227" height="32" width="32" /></a>
 <a href="https://codeforces.com/profile/philopater_waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="philopater_waheed" height="32" width="32" /></a>
 <a href="https://www.leetcode.com/philopaterwaheed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="philopaterwaheed9" height="32" width="32" /></a>
+<a href="https://www.codewars.com/users/philosan" target="blank"><img align="center" src="https://imgs.search.brave.com/zPnZqJ_MIVqYZM5sKzxoLSPPavW75qr8F0d4Qn0RQyU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzYyZTNlZTEw/ODgyZGM1MGJjYWU4/ZDA3YS82MzFhYWY2/YjFhMTc2ZWEwNTI1/YjY5ODNfY29kZXdh/cnMtbG9nb21hcmsu/c3Zn.svg" alt="codewars" height="32" width="32" /></a>
 </p>
+
 
   
 # visits
 <img align = "right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
-<img  width = "15%" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  /> <br>
-<img  src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
+<img align = "left"  width = "15%" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  /> 
+<img align = "left" src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
 
 <br><br><br><br><br>
 # projects you need to see  
 <table><tr><td valign="top" width="50%">
 
-- ⚽ a game from scratch project  [cath the flag ](https://github.com/philopaterwaheed/Catch_the_flag_game)  
+- ⚽ a game from scratch project  [catch the flag ](https://github.com/philopaterwaheed/Catch_the_flag_game)  
   
 
 
