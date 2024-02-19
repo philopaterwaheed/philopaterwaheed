@@ -57,6 +57,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 - ⚽ a game from scratch project  [catch the flag ](https://github.com/philopaterwaheed/Catch_the_flag_game)  
 - <img src="http://tinyurl.com/wmup77yw"/> the ultimate text editor [bbook](https://github.com/philopaterwaheed/bbook_the_text_editor)
+- 🦀 an awesome app launcher  [launchio ](https://github.com/philopaterwaheed/launchio)  
 
 
 
