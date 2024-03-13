@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table style="width: 20px" align = "left"> 
   <td>
 <table width="25%" align = "left"> 
-  <td width="500px" >
+  <td width="350px" >
 
 A CS student
 ------------
