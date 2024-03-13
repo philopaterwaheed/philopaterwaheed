@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is philopater waheed
 =========================================================================================================================================
-<table width="25%" align = "left"> 
+<div style="width: 100%">
+<table style="width: 20px" align = "left"> 
   <td>
 <table width="25%" align = "left"> 
-  <td>
+  <td width="50%" >
 
 A CS student
 ------------
@@ -47,7 +48,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 <a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" /></a></td></tr>
 
   <tr>
-  <td align="right" width="50%">  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" ></td></tr>
+  <td align="center" width="410px">  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" ></td></tr>
 <tr> <td align="right" width="50%">
 <a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile"/></a></td></tr>
 <tr> <td align="right" width="50%">
@@ -66,7 +67,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="400px">
 
 <div align="center">
 <img src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/tenor.gif" align="center" style="width: 100%" />
@@ -74,5 +75,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 
 </td></tr></table>  
-
+</div>
 
