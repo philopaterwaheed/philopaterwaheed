@@ -37,9 +37,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 
   
-# visits
+# Data
 <img align = "right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
-<img align = "left"  width = "15%" src="https://profile-counter.glitch.me/philopaterwaheed/count.svg?"  /> 
+<img align = "left"  width = "45%" src="https://wakatime.com/badge/user/0f89acde-73e3-4e5a-b142-f273fd933144.svg"  /> 
 <img align = "left" src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
 </td>
 </table>
