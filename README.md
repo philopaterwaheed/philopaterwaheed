@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is philopater waheed
 =========================================================================================================================================
 <div style="width: 100%">
-<table style="width: 20px" align = "left"> 
-  <td>
-<table width="25%" align = "left"> 
-  <td width="350px" >
-
+<table> 
+ <th>info</th> 
+  
+  <td valign ="top">
+  
 A CS student
 ------------
 
@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 <a href="https://linkedin.com/in/philopater-waheed-561292227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philopater-waheed-561292227" height="32" width="32" /></a>
 <a href="https://codeforces.com/profile/philopater_waheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="philopater_waheed" height="32" width="32" /></a>
 <a href="https://www.leetcode.com/philopaterwaheed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="philopaterwaheed9" height="32" width="32" /></a>
-<a href="https://www.codewars.com/users/philosan" target="blank"><img align="center" src="https://imgs.search.brave.com/zPnZqJ_MIVqYZM5sKzxoLSPPavW75qr8F0d4Qn0RQyU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzYyZTNlZTEw/ODgyZGM1MGJjYWU4/ZDA3YS82MzFhYWY2/YjFhMTc2ZWEwNTI1/YjY5ODNfY29kZXdh/cnMtbG9nb21hcmsu/c3Zn.svg" alt="codewars" height="32" width="32" /></a>
+
 </p>
 
 
@@ -41,39 +41,52 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 <img align = "right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
 <img align = "left"  width = "45%" src="https://wakatime.com/badge/user/0f89acde-73e3-4e5a-b142-f273fd933144.svg"  /> 
 <img align = "left" src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
+
+
+
+
 </td>
-</table>
 
-<table width="25%" align = "right"><tr><td align="right" width="50%">
-<a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="right" /></a></td></tr>
 
-  <tr>
-  <td width="400px" >  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" ></td></tr>
-<tr> <td align="right" width="50%">
-<a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile"/></a></td></tr>
-<tr> <td align="right" width="50%">
-<a href="https://www.codewars.com/users/philosan"><img src="https://www.codewars.com/users/philosan/badges/large" alt="philopaterwaheed's codewars profile"/></a></td></tr>
+<td algin ="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaterwaheed&show_icons=true&locale=en&layout=compact&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed" >
+<a href="http://www.github.com/philopaterwaheed"><img src="https://github-readme-stats.vercel.app/api?username=philopaterwaheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's GitHub stats" align="left" /></a>
+  
+<a href="https://codeforces.com/profile/philopater_waheed"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=philopater_waheed&show_icons=true&hide=&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="philopaterwaheed's codeforces profile"/></a>
+
+<a href="https://www.codewars.com/users/philosan"><img src="https://www.codewars.com/users/philosan/badges/large" alt="philopaterwaheed's codewars profile"/></a>
+
+<a href="[https://codeforces.com/profile/philopater_waheed](https://leetcode.com/u/philopaterwaheed9/)"><img src="https://leetcode.card.workers.dev/philopaterwaheed9?theme=dark&font=source_code_pro&extension=activity" alt="philopaterwaheed's leetcode profile"/></a>
+
+
+
 </td>
 </table>
 </div>
 
+--------
+  
+# projects 
 
+<table>
 
-<table><tr><td valign="top" width="50%">
+ <td width = "50%">
 
 - ⚽ a game from scratch project  [catch the flag ](https://github.com/philopaterwaheed/Catch_the_flag_game)  
 - <img src="http://tinyurl.com/wmup77yw"/> the ultimate text editor [bbook](https://github.com/philopaterwaheed/bbook_the_text_editor)
 - 🦀 an awesome app launcher  [launchio ](https://github.com/philopaterwaheed/launchio)  
 - 📁 a killer command line file manager [fileio](https://github.com/philopaterwaheed/fileio)
+- 📕 an awesome book store [Novel Nest](https://github.com/Ahmed3zzeldeen/Novel-Nest-App)
 
 
-</td><td valign="top" width="400px">
+</td>
+<td>
 
 <div align="center">
 <img src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/tenor.gif" align="center" style="width: 100%" />
 </div>  
 
 
-</td></tr></table>  
+</td></table>  
 </div>
 
