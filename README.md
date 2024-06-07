@@ -74,8 +74,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 - ⚽ a game from scratch project  [catch the flag ](https://github.com/philopaterwaheed/Catch_the_flag_game)  
 - <img src="http://tinyurl.com/wmup77yw"/> the ultimate text editor [bbook](https://github.com/philopaterwaheed/bbook_the_text_editor)
-- 🦀 an awesome app launcher  [launchio ](https://github.com/philopaterwaheed/launchio)  
 - 📁 a killer command line file manager [fileio](https://github.com/philopaterwaheed/fileio)
+- 🦀 an awesome app launcher  [launchio ](https://github.com/philopaterwaheed/launchio)  
+- <img src = "https://imgs.search.brave.com/S3zqibqgun23bikxOE0CI5RaqhL4jh6UWroIAsoWVck/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzMz/bzFrL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3hjYWdzdDhxdGEz/OTEucG5n" width ="4%" > a magnificent test case runner [psio](https://github.com/philopaterwaheed/psio)
 - 📕 an awesome book store [Novel Nest](https://github.com/Ahmed3zzeldeen/Novel-Nest-App)
 
 
