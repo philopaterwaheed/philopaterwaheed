@@ -11,7 +11,7 @@ A CS student
 
 * 🌍  I'm based in Cairo , Giza
 * ✉️  You can contact me at [10812021100016@stud.cu.edu.eg](mailto:10812021100016@stud.cu.edu.eg)
-
+* 📑  you can see my [CV](https://docs.google.com/document/d/14806tbKGYbfnIlEs6Ovi67zxWmiPSZgB/edit?usp=sharing&ouid=113982745298873169889&rtpof=true&sd=true)
 ## Skills
 
 
@@ -56,9 +56,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 <a href="https://www.codewars.com/users/philosan"><img src="https://www.codewars.com/users/philosan/badges/large" alt="philopaterwaheed's codewars profile"/></a>
 
-<a href="[https://codeforces.com/profile/philopater_waheed](https://leetcode.com/u/philopaterwaheed9/)"><img src="https://leetcode.card.workers.dev/philopaterwaheed9?theme=dark&font=source_code_pro&extension=activity" alt="philopaterwaheed's leetcode profile"/></a>
-
-
+<a href="[https://codeforces.com/profile/philopater_waheed](https://leetcode.com/u/philopaterwaheed9/)"><img src="https://leetcard.jacoblin.cool/JacobLinCool?ext=activity" alt="philopaterwaheed's leetcode profile"/></a>
 
 </td>
 </table>
@@ -91,4 +89,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 </td></table>  
 </div>
-
