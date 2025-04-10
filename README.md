@@ -56,7 +56,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 <a href="https://www.codewars.com/users/philosan"><img src="https://www.codewars.com/users/philosan/badges/large" alt="philopaterwaheed's codewars profile"/></a>
 
-<a href="[https://codeforces.com/profile/philopater_waheed](https://leetcode.com/u/philopaterwaheed9/)"><img src="https://leetcard.jacoblin.cool/JacobLinCool?ext=activity" alt="philopaterwaheed's leetcode profile"/></a>
+<a href="[https://codeforces.com/profile/philopater_waheed](https://leetcode.com/u/philopaterwaheed9/)"><img src="https://leetcard.jacoblin.cool/philopaterwaheed9?ext=activity" alt="philopaterwaheed's leetcode profile"/></a>
 
 </td>
 </table>
